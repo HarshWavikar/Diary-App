@@ -1,3 +1,4 @@
+<h1 align="center">📖 Diary App</h1>
 <h2>📸 Screenshots 📸 </h2>
 
 | Home Screen                                           | WriteScreen                                   |
